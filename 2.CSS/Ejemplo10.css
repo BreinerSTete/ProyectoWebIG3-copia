@@ -1,0 +1,132 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+span{
+    color: transparent;
+}
+
+nav{
+    padding-top: 7px;
+    padding-bottom: 7px;
+    text-align: center;
+    font-weight: bold;
+    border: 1px solid black;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+}
+
+img{
+    border-radius: 10px;
+}
+
+footer {
+    background-color: rgb(249, 249, 249);
+}
+
+.firstdiv{
+    display: flex;
+    padding-left: 3%;
+}
+.front{
+    width: 50%;
+    text-align: left;
+}
+
+.news{
+    padding-left: 20%;
+}
+
+.primerelemento{
+    display: flex;
+}
+
+.lorem1{
+    margin-left: 20px;
+}
+
+.backendtittle{
+    padding-left: 3%;
+}
+.segundoelemento{
+    display: flex;
+}
+
+.lorem2{
+    margin-left: 20px;
+}
+
+.tercerelemento{
+    display: flex;
+}
+
+.lorem3{
+    margin-left: 20px;
+}
+
+.seconddiv{
+    display: flex;
+    padding-left: 2%;
+    padding-right: 1%;
+}
+
+.element1{
+    padding-right: 50px;
+}
+
+.element2{
+    padding-right: 50px;
+}
+
+.element3{
+    padding-right: 50px;
+}
+
+.element4{
+    padding-right: 50px;
+}
+
+.contactoinfo{
+    display: flex;
+}
+
+.lineafooter{
+    display: flex;
+}
+
+.social{
+    padding-left: 63%;
+}
+.redes-sociales{
+    display: flex;
+}
+.twitter{
+    padding: 20px;
+    text-align: center;
+}
+
+.instagram{
+    padding: 20px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.whatsapp{
+    padding: 20px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.facebook{
+    padding: 20px;
+    padding-top: 10px;
+    text-align: center;
+}
